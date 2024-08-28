@@ -40,5 +40,9 @@ Aqui estão algumas sugestões de próximos passos para quem quiser contribuir o
 
 ## mudanças 
 
-alysson: Adicionei as bebidas e modifiquei as imagens 27/08
-arthur: adição de login, cadastro e loadpage(porfavor deixar em responsivo)27/08
+**alysson:** Adicionei as bebidas e modifiquei as imagens 27/08
+
+**arthur:** adição de login, cadastro e loadpage(porfavor deixar em responsivo)27/08
+
+**alysson:** adicionei interação no "ver mais" do cardápio 28/08
+
